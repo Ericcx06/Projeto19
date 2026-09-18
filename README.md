@@ -14,7 +14,7 @@ Vide tutoriais do PI.
 
 ## Sintonia Tech
 
-## Integrantes: <a href="https://www.linkedin.com/in/douglas-macario-2192a5247/ target=_blank>Douglas Silva Gadelha Macario</a>, <a href="https://www.linkedin.com/in/eric-carvalho-9319a4312/">Eric Carvalho</a>, <a href="https://www.linkedin.com/in/gabriel-vaz-1593a740a/">Gabriel Vaz Ferreira Neves</a>, <a href="https://www.linkedin.com/in/gustavo-cocoloti-melo-445713328">Gustavo Cocoloti Melo</a>
+## Integrantes: <a href="https://www.linkedin.com/in/douglas-macario-2192a5247/ target="_blank"">Douglas Silva Gadelha Macario</a>, <a href="https://www.linkedin.com/in/eric-carvalho-9319a4312/">Eric Carvalho</a>, <a href="https://www.linkedin.com/in/gabriel-vaz-1593a740a/">Gabriel Vaz Ferreira Neves</a>, <a href="https://www.linkedin.com/in/gustavo-cocoloti-melo-445713328">Gustavo Cocoloti Melo</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
